@@ -266,7 +266,7 @@ body{
 }
 
 .card .card-product-image img{
-    max-width: 180px;
+    max-width: 150px;
     height: auto;
     margin: 1em auto;
 }
@@ -357,10 +357,10 @@ body{
     background-image: url(../img/products/ig-2.jpg);
 }
 #ig-img-3{
-    background-image: url(../img/products/ig-1.jpg);
+    background-image: url(../img/products/ig-3.jpg);
 }
 #ig-img-4{
-    background-image: url(../img/products/ig-2.jpg);
+    background-image: url(../img/products/ig-4.jpg);
 }
 #ig-img-5{
     background-image: url(../img/products/ig-1.jpg);
